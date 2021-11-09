@@ -2,7 +2,7 @@
     border-radius: 6px;
     display: flex;
     flex-direction: column;
-    margin: 20px;
+    margin: 25px;
 }
 
 .game_genre {
@@ -10,7 +10,7 @@
 }
 
 .game_poster {
-    width: 200px;
-    height: 250px;
+    width: 240px;
+    height: 280px;
     border-radius: 10px;
 } 
