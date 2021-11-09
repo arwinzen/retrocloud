@@ -9,35 +9,35 @@ const DATA = [
         name: 'Hollow Knight',
         genre: 'Metroidvania',
         rating: 10,
-        url : '/assets/games/hollowKnight.jpg'
+        url : 'assets/games/hollowKnight.jpg'
     },
     {
         id : '2',
         name: 'Bastion',
         genre: 'Action RPG',
         rating: 8,
-        url : '/assets/games/bastion3.jpg'
+        url : 'assets/games/bastion3.jpg'
     },
     {
         id : '3',
         name: 'Celeste',
         genre: 'Platformer',
         rating: 3,
-        url : '/assets/games/celeste.png'
+        url : 'assets/games/celeste.png'
     },
     {
         id : '4',
         name: 'Final Fantasy Tactics',
         genre: 'Tactical RPG',
         rating: 5,
-        url : '/assets/games/fftactics2.jpg'
+        url : 'assets/games/fftactics2.jpg'
     },
     {
         id : '5',
         name: 'Hyper Light Drifter',
         genre: 'Action RPG',
         rating: 5,
-        url : '/assets/games/drifter2.png'
+        url : 'assets/games/drifter2.png'
     },
     {
         id : '6',
@@ -51,14 +51,14 @@ const DATA = [
         name: 'Hades',
         genre: 'Rogue Lite',
         rating: 5,
-        url : '/assets/games/hades.png'
+        url : 'assets/games/hades.png'
     },
     {
         id : '8',
         name: 'JAK 3',
         genre: 'Semi Open World RPG',
         rating: 5,
-        url : '/assets/games/jak.jfif'
+        url : 'assets/games/jak.jfif'
     }
 ];
 
