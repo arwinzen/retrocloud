@@ -1,0 +1,44 @@
+.headerWrapper {
+    background-color: #14253E;
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    height: 10vh;
+    display: flex;
+    margin: 15px auto;
+    color: white;
+}
+
+input {
+    width: 50vw;
+    height: 80px;
+    display: block;
+    padding: 1rem;
+    border: none;
+    text-align: center;
+    font-size: large;
+    background-color: none;
+}
+
+.avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: black;
+}
+
+.accountInfo {
+    display: flex;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.accountInfo * {
+    margin-left: 15px;
+}
+
+.accountName {
+    line-height: 50px;
+}

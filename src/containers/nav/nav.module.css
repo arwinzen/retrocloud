@@ -1,0 +1,17 @@
+nav {
+    width: 25vw;
+    height: 100vh;
+    background-color: #070E0B;
+    background-color: #14253E;
+    /* background-color: #FFC300; */
+    color: white;
+}
+
+.brand_holder {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 1rem 0;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid gray;
+}
