@@ -44,7 +44,7 @@ const DATA = [
         name: 'Link Between Worlds',
         genre: 'Action Adventure',
         rating: 5,
-        url : '/assets/games/link.jpg'
+        url : 'assets/games/link.jpg'
     },
     {
         id : '7',
