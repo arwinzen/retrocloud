@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/retrocloud/static/css/main.95020080.chunk.css",
+    "main.js": "/retrocloud/static/js/main.2eea0964.chunk.js",
+    "main.js.map": "/retrocloud/static/js/main.2eea0964.chunk.js.map",
+    "runtime-main.js": "/retrocloud/static/js/runtime-main.b607df1d.js",
+    "runtime-main.js.map": "/retrocloud/static/js/runtime-main.b607df1d.js.map",
+    "static/js/2.7768c948.chunk.js": "/retrocloud/static/js/2.7768c948.chunk.js",
+    "static/js/2.7768c948.chunk.js.map": "/retrocloud/static/js/2.7768c948.chunk.js.map",
+    "static/js/3.8b384d50.chunk.js": "/retrocloud/static/js/3.8b384d50.chunk.js",
+    "static/js/3.8b384d50.chunk.js.map": "/retrocloud/static/js/3.8b384d50.chunk.js.map",
+    "index.html": "/retrocloud/index.html",
+    "static/css/main.95020080.chunk.css.map": "/retrocloud/static/css/main.95020080.chunk.css.map",
+    "static/js/2.7768c948.chunk.js.LICENSE.txt": "/retrocloud/static/js/2.7768c948.chunk.js.LICENSE.txt",
+    "static/media/gems.cbe73f1a.png": "/retrocloud/static/media/gems.cbe73f1a.png",
+    "static/media/logo.6ce24c58.svg": "/retrocloud/static/media/logo.6ce24c58.svg",
+    "static/media/medal.11e3e33b.png": "/retrocloud/static/media/medal.11e3e33b.png",
+    "static/media/startup.acaff20b.png": "/retrocloud/static/media/startup.acaff20b.png",
+    "static/media/theknight.fe44dc56.png": "/retrocloud/static/media/theknight.fe44dc56.png",
+    "static/media/trophy.85dcb3d6.png": "/retrocloud/static/media/trophy.85dcb3d6.png",
+    "static/media/video-game.a9f0603f.png": "/retrocloud/static/media/video-game.a9f0603f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b607df1d.js",
+    "static/js/2.7768c948.chunk.js",
+    "static/css/main.95020080.chunk.css",
+    "static/js/main.2eea0964.chunk.js"
+  ]
+}
